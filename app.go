@@ -1,3 +1,4 @@
+package app
 type App struct {
 	logger bool
 	err error
